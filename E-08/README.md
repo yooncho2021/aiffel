@@ -1,7 +1,7 @@
 [인물사진 모드 만들기]
 
 - ipynb 로딩 실패시: 
-https://colab.research.google.com/drive/1GwLMRUCHCOimYgcUCtpJq13GdxmFX4Q5
+https://colab.research.google.com/drive/1WPq6ZOBBmzdlneGc7swLWRg4c35cpTvj
 
 - 회고:
 시각화를 통해서 모든 과정을 확인하며 진행할 수 있어서 더 직관적이였던 노드였다.
