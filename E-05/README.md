@@ -5,5 +5,5 @@
 2개의 이미지 파일 중, 한개가 점수가 잘 나와서 좋았지만, 임베딩 과정에서 화질이 좋지 않았던 것이 영향이 있지 않았나 생각된다.
 시각화를 하는 과정에서 아지 부족하다라는 것을 크게 느꼈고, L1과 L2의 distance를 구현하는 과정에서도 좀 더 공부가 필요하다고 느꼈다.
 
-- ipynb:
+- ipynb 로딩 안될 시:
 https://colab.research.google.com/drive/1tU2W_ko74inLvwhZYnOWRzQPG5hXM6iU
